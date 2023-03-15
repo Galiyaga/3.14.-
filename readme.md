@@ -11,11 +11,6 @@ GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0]
 ---
 
 ### Содержание
-1. Что такое Git?
-2. Команда [git add](./add.md)
-
----
-
-2d42f35
-65b072f
-2d42f35
+1. Что такое [Git](./git.md)? 
+2. Добавление изменений [git add](./add.md)
+3. Просмотр изменений [git status](./status.md)
