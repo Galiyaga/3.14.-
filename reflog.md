@@ -12,4 +12,6 @@
 ~~~bash
 git reflog --format='%C(auto)%h %<|(20)%gd %C(blue)%cr%C(reset) %gs (%s)' -20
 ~~~
-Это будет выглядить так:
+Пример того, как это будет выглядить:  
+ 
+![reflog example](./assets/reflog%20example.jpg)
