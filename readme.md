@@ -22,4 +22,4 @@ GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0]
 9. История изменений [git reflog](./reflog.md)
 10. Перемещение и переименование [git mv](./mv.md)
 11. Временное сохранение [git stash](./stash.md)
-12. Заключение
+12. Заключение [finding](./finding.md)
